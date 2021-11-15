@@ -1,0 +1,9 @@
+{
+	"name": "ADFChipg",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "511c42b3-dbe5-4138-a77c-5ed637c71e40",
+		"tenantId": "f9efe414-0682-49ff-b8a8-5b4156c96dbc"
+	}
+}
